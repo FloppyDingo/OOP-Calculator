@@ -1,0 +1,10 @@
+C:\Users\WNxOd\source\repos\Assignment 1 Calculator\Assignment 1 Calculator\bin\Debug\Assignment 1 Calculator.exe.config
+C:\Users\WNxOd\source\repos\Assignment 1 Calculator\Assignment 1 Calculator\bin\Debug\Assignment 1 Calculator.exe
+C:\Users\WNxOd\source\repos\Assignment 1 Calculator\Assignment 1 Calculator\bin\Debug\Assignment 1 Calculator.pdb
+C:\Users\WNxOd\source\repos\Assignment 1 Calculator\Assignment 1 Calculator\obj\Debug\Assignment_1_Calculator.Properties.Resources.resources
+C:\Users\WNxOd\source\repos\Assignment 1 Calculator\Assignment 1 Calculator\obj\Debug\Assignment 1 Calculator.csproj.GenerateResource.cache
+C:\Users\WNxOd\source\repos\Assignment 1 Calculator\Assignment 1 Calculator\obj\Debug\Assignment 1 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\WNxOd\source\repos\Assignment 1 Calculator\Assignment 1 Calculator\obj\Debug\Assignment 1 Calculator.exe
+C:\Users\WNxOd\source\repos\Assignment 1 Calculator\Assignment 1 Calculator\obj\Debug\Assignment 1 Calculator.pdb
+C:\Users\WNxOd\source\repos\Assignment 1 Calculator\Assignment 1 Calculator\obj\Debug\Assignment 1 Calculator.csproj.AssemblyReference.cache
+C:\Users\WNxOd\source\repos\Assignment 1 Calculator\Assignment 1 Calculator\obj\Debug\Assignment_1_Calculator.Calculator.resources
